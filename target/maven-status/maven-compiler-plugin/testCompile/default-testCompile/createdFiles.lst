@@ -1,0 +1,5 @@
+com\epam\module\Pet.class
+com\epam\module\Category.class
+com\epam\tests\FirstTest.class
+com\epam\TestClasses\ApiCrudOperation.class
+com\epam\tests\ApiCrudAction.class
